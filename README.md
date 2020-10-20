@@ -15,6 +15,12 @@ User will have to download the application and do npm install
 
 # Screeenshot
 
+![](assets/Screen%20Shot%202020-10-19%20at%203.19.30%20PM.png)
+![](assets/Screen%20Shot%202020-10-19%20at%203.20.17%20PM.png)
+![](assets/Screen%20Shot%202020-10-19%20at%203.21.17%20PM.png)
+![](assets/Screen%20Shot%202020-10-19%20at%203.21.41%20PM.png)
+
+
 
 
 # Usage
